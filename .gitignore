@@ -1,0 +1,9 @@
+.idea
+.vs
+Debug
+Release
+exec
+cmake-build-debug
+main
+task3
+app
