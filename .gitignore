@@ -1,9 +1,9 @@
 .idea
 .vs
-Debug
-Release
+[Dd]ebug
+[Rr]elease
 exec
 cmake-build-debug
 main
-task3
 app
+*.exe
